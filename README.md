@@ -4,7 +4,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Constantin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/constantinermurache/)](https://www.linkedin.com/in/constantinermurache/) [![Instagram Badge](https://img.shields.io/badge/-@cern-970a0a?style=flat-square&logo=Instagram&logoColor=white&link=https:/www.instagram.com/_javajourney/)](https://www.instagram.com/_javajourney/)
 
-  
+
+
+
+  ![Snake animation](https://github.com/cern7/cern7/blob/output/github-contribution-grid-snake.svg)
 <!--
 **cern7/cern7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
