@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20I%20am%20Constantin!🧑‍💻&animation=scaleIn&type=waving&&color=gradient&height=100&fontSize=50"/>
+</p>
 <!--
 **cern7/cern7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
