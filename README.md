@@ -16,6 +16,7 @@
 <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?logo=SQLite&logoColor=white&style=flat"/>
 <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=GNU Bash&logoColor=white&style=flat"/>
 <img alt="Linux" src="https://img.shields.io/badge/Linux-e7ae00?logo=linux&logoColor=white&style=flat"/>
+<img alt="AWS" src="https://img.shields.io/badge/aws-232F3E?logo=amazon aws&logoColor=white&style=flat"/>
 </p>
 
 **Version Control and Development tools used:**
