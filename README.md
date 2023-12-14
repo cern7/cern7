@@ -30,7 +30,13 @@
   
 </p>
 
+[![CERN7's GitHub stats](https://github-readme-stats.vercel.app/api?username=cern7&theme=tokyonight)](https://github.com/cern7/github-readme-stats)
 
+<p>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=cern7&theme=tokyonight&layout=compact)](https://github.com/cern7/github-readme-stats)
+
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cern7/cern7/output/github-contribution-grid-snake-dark.svg">
