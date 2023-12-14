@@ -25,6 +25,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat"/>
   <img alt="BitBucket" src="https://img.shields.io/badge/bitbucket-0052CC?logo=bitbucket&logoColor=white&style=flat"/>
   <img alt="Intellij IDEA" src="https://img.shields.io/badge/Intellij IDEA-000000?logo=Intellij IDEA&logoColor=white&style=flat"/>
+  <img alt="VSCode" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visual studio code&logoColor=white&style=flat"/>
   <img alt="Vim" src="https://img.shields.io/badge/vim-019733?logo=vim&logoColor=white&style=flat"/>
   
 </p>
