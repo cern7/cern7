@@ -4,7 +4,7 @@
 
 ### <div align="center">Software developer 👨‍💻 Linux explorer🐧 and [coffee lover](https://www.buymeacoffee.com/cern7) ☕.</div>  
 
-- 🔭 I’m currently working on [NotifyMe app](https://github.com/cern7/notifyMe)  
+- 🔭 I’m currently working on [E-commerce backend] using Ruby
   
 
 - 🌱 I’m currently learning JavaScript and Blender  
