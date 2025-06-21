@@ -68,7 +68,7 @@
 </picture>
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/cern7" target="_blank" style="display: inline-block;">
+  <a href="https://coff.ee/cern" target="_blank" style="display: inline-block;">
     <img align="center" src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee"/>
   </a>
 </div>
